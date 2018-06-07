@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "description": "Just another NodeJS playground. Have fun!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiodesign/nodejs-playground.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api"
+  ],
+  "author": "Caio Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiodesign/nodejs-playground/issues"
+  },
+  "homepage": "https://github.com/caiodesign/nodejs-playground#readme"
+}
